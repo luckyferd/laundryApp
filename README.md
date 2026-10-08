@@ -24,7 +24,7 @@ Aturan bisnis:
 
 ## Kebutuhan
 
-- PHP 8.0 – 8.3 (ekstensi: pdo_mysql atau pdo_sqlite, mbstring, openssl, xml)
+- PHP 8.0.30 atau lebih baru (dependensi dikunci untuk PHP 8.0.30 lewat `config.platform` di `composer.json`; ekstensi: pdo_mysql atau pdo_sqlite, mbstring, openssl, xml)
 - Composer 2
 - MySQL / MariaDB (atau SQLite)
 
